@@ -1,0 +1,6 @@
+{
+  "name": "Exam Intelligence",
+  "description": "CBSE Class 10 exam-analysis platform with document management, project workspaces, and AI intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
